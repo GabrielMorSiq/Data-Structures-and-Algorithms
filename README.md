@@ -1,8 +1,9 @@
-# Acompanhando Curso de Python Completo
+# Acompanhando Curso de Estrutura de Dados
 
 Registro das anotações e códigos com ideias gerais das aulas do [Curso de Python 3 do Básico Ao Avançado](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/), da Udemy, além de demais atividades e projetos promovidos.
 
 **Conteúdo**:
+
 Section 1 - Introduction
 
 Section 2 - Recursion 
